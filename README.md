@@ -1,5 +1,4 @@
-# Ruby_Learning
-note and codes from girrafeacademy Ruby lecture hosted on freeCodeCamp
+# Note and codes from girrafeacademy Ruby lecture hosted on freeCodeCamp
 
 [video resource](https://www.youtube.com/watch?v=t_ispmWmdjY&t=7242s)
 
