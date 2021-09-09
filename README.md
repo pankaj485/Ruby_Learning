@@ -1,4 +1,4 @@
-# Note and codes from girrafeacademy Ruby lecture hosted on freeCodeCamp
+# I learned Ruby basics from the freeCodeCamp youtube video provided by giraffe academy. The repository contains code files and a note 
 
 [video resource](https://www.youtube.com/watch?v=t_ispmWmdjY&t=7242s)
 
